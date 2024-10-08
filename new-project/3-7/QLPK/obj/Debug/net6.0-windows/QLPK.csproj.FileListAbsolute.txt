@@ -1,0 +1,106 @@
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\QLPK.exe
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\QLPK.deps.json
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\QLPK.runtimeconfig.json
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\QLPK.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\QLPK.pdb
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\System.Management.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\QLPK.csproj.AssemblyReference.cache
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\QLPK.AddPatients.resources
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\QLPK.Bill.resources
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\QLPK.Home.resources
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\QLPK.Login.resources
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\QLPK.Properties.Resources.resources
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\QLPK.Register.resources
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\QLPK.csproj.GenerateResource.cache
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\QLPK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\QLPK.AssemblyInfoInputs.cache
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\QLPK.AssemblyInfo.cs
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\QLPK.csproj.CoreCompileInputs.cache
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\QLPK.csproj.CopyComplete
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\QLPK.dll
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\refint\QLPK.dll
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\QLPK.pdb
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\QLPK.genruntimeconfig.cache
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\ref\QLPK.dll
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\QLPK.Model.frmHome.resources
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\QLPK.Model.frmLK.resources
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\QLPK.Model.frmLSK.resources
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\QLPK.Model.frmProfiles.resources
+D:\Hoc Tap\Thực tập hè\QLPK\obj\Debug\net6.0-windows\QLPK.Model.frmTTK.resources
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\BCrypt.Net.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Hoc Tap\Thực tập hè\QLPK\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\QLPK.exe
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\QLPK.deps.json
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\QLPK.runtimeconfig.json
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\QLPK.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\QLPK.pdb
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\BCrypt.Net.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\System.Management.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\new-project\3-7\QLPK\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\QLPK.csproj.AssemblyReference.cache
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\QLPK.AddPatients.resources
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\QLPK.Bill.resources
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\QLPK.Home.resources
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\QLPK.Login.resources
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\QLPK.Model.frmHome.resources
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\QLPK.Model.frmLK.resources
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\QLPK.Model.frmLSK.resources
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\QLPK.Model.frmProfiles.resources
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\QLPK.Model.frmTTK.resources
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\QLPK.Properties.Resources.resources
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\QLPK.Register.resources
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\QLPK.csproj.GenerateResource.cache
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\QLPK.GeneratedMSBuildEditorConfig.editorconfig
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\QLPK.AssemblyInfoInputs.cache
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\QLPK.AssemblyInfo.cs
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\QLPK.csproj.CoreCompileInputs.cache
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\QLPK.csproj.CopyComplete
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\QLPK.dll
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\refint\QLPK.dll
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\QLPK.pdb
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\QLPK.genruntimeconfig.cache
+D:\new-project\3-7\QLPK\obj\Debug\net6.0-windows\ref\QLPK.dll

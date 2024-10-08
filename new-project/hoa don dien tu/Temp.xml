@@ -1,0 +1,76 @@
+<?xml-stylesheet type='text/xsl' href='MauGTGTNhieuThue_02' ?>
+<HDon>
+	 <DLHDon Id="DuLieuKy">
+		  <TTChung>
+				<PBan>2.0.0</PBan>
+				<THDon>Hóa đơn giá trị gia tăng</THDon>
+				<KHMSHDon></KHMSHDon>
+				<KHHDon></KHHDon>
+				<SHDon>0</SHDon>
+				<NLap></NLap>
+				<DVTTe>VND</DVTTe>
+				<TGia>1</TGia>
+				<HTTToan></HTTToan>
+				<TTHDLQuan>
+					 <TCHDon></TCHDon>
+					 <LHDCLQuan></LHDCLQuan>
+					 <KHMSHDCLQuan></KHMSHDCLQuan>
+					 <KHHDCLQuan></KHHDCLQuan>
+					 <SHDCLQuan></SHDCLQuan>
+					 <NLHDCLQuan></NLHDCLQuan>
+					 <GChu></GChu>
+				</TTHDLQuan>
+		  </TTChung>
+		  <NDHDon>
+				<NBan>
+					 <Ten>CÔNG TY TNHH TRANG TRÍ NỘI THẤT QUỐC OAI</Ten>
+					 <MST>1801744059</MST>
+					 <DChi>Số 929A, Đường Nguyễn Văn Cừ nối dài, Khu vực 2, Phường An Khánh, Quận Ninh Kiều, Cần Thơ</DChi>
+					 <SDThoai>0948489791</SDThoai>
+					 <STKNHang></STKNHang>
+					 <TNHang></TNHang>
+				</NBan>
+				<NMua>
+					 <Ten></Ten>
+				</NMua>
+				<DSHHDVu>
+					 <HHDVu>
+						  <TChat></TChat>
+						  <STT></STT>
+						  <THHDVu></THHDVu>
+						  <DVTinh></DVTinh>
+						  <SLuong></SLuong>
+						  <DGia></DGia>
+						  <TLCKhau></TLCKhau>
+						  <STCKhau></STCKhau>
+						  <TSuat></TSuat>
+						  <ThTien></ThTien>
+						  <TTKhac>
+								<TTin>
+									 <TTruong>Amount</TTruong>
+									 <KDLieu>numeric</KDLieu>
+									 <DLieu></DLieu>
+								</TTin>
+						  </TTKhac>
+					 </HHDVu> 
+				</DSHHDVu>
+				<TToan>
+					 <THTTLTSuat>
+						  <LTSuat>
+								<TSuat></TSuat>
+								<TThue></TThue>
+								<ThTien></ThTien>
+						  </LTSuat> 
+					 </THTTLTSuat>
+					 <TgTCThue></TgTCThue>
+					 <TgTThue></TgTThue>
+					 <TgTTTBSo></TgTTTBSo>
+					 <TgTTTBChu></TgTTTBChu>
+					  <TGTKCThue></TGTKCThue>
+					<TGTKhac></TGTKhac>
+					<TTCKTMai></TTCKTMai>
+				</TToan>
+		  </NDHDon>
+	 </DLHDon> 
+	  
+</HDon>

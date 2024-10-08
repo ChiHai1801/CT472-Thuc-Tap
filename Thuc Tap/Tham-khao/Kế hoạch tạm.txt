@@ -1,0 +1,36 @@
+Chia làm 2 nhóm nhỏ:
+
+WEBSITE => Quản lí phòng khám tư nhân
+- Code bằng PHP sử dụng framework laravel 
+----------------------------------------------------------------------------------------------------------------------------------------------
+APP => Đặt lịch hẹn (phần này thuộc bệnh nhân) => gửi lên WEBSITE (quản lý bởi y tá) 
+- Code bằng C# 
+- Giao diện đồ họa hỗ trợ C# (WorKFroms, GUI,...)
+----------------------------------------------------------------------------------------------------------------------------------------------
+Xây dựng hoàn chỉnh phòng khám tư nhân đối với WEBSITE
+- Có 4 loại site riêng dành cho 4 nhóm người dùng trong hệ thống
+  + ADMIN => 1 trang quản lý riêng gồm (thêm, sửa, xóa tài khoản và bài viết)
+  + BACSI => 1 trang quản lý riêng gồm (quản lý thông tin bệnh nhân, xem lịch sử khám bệnh, xem lịch sử khám bệnh)
+  + YTA => 1 trang quản lý riêng gồm (thông tin lịch hẹn, thu phí, xác nhận bệnh nhân, xem đơn thuốc, xem lịch sử khám bệnh)
+  + BENHNHAN => 1 trang riêng gồm (đăng ký, đăng nhập, xem thông tin website)
+  
+Từ CDM => LDM => xây dựng bảng CSDL => Xây dựng giao diện đồ họa => Xây dựng chức năng => Xây dựng route => Kiêm thử
+----------------------------------------------------------------------------------------------------------------------------------------------
+Xây dựng hoàn chỉnh phòng khám tư nhân đối với APP
+- Dành cho BENHNHAN đặt lịch thông qua APP
+- APP đặt lịch hẹn liên kết đến YTA qua WEBSITE (đặt lịch - nhắc lịch)
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+GIAODIEN WEBSITE 
+BENHNHAN
+=> TAB => TRANGTRU DATLICHKHAM THONGTINCANHAN TIMKIEM BAIVIET=>(DANHGIA|BINHLUAN)
+YTA
+=> TAB => [TRANGTRU=>(XACNHANBENHNHAN)] LAPHOADON  [LAPPHIEUKHAMBENH]  [LAPDANHSACHKHAMBENH]  [XEMLICHSUDONTHUOC]  [XEMTOATHUOC]  [QUANLITHUPHI]  [THONGTINCANHAN]
+BACSI
+=> TAB => TRANGTRU=>(XEMTHONGTINBENHNHAN) KEDONTHUOC QUANLIKHAMBENH XEMLICHSUDONTHUOC XEMDANHSACHKHAMBENH THONGTINCANHAN
+ADMIN
+=> QUANLITAIKHOAN QUANLIBAIVIET
+
+GIAODIEN APP
+BENHNHAN 
+
